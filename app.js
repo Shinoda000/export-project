@@ -1,3 +1,3 @@
-funktion multiply(a, b) {
-	retrn a + b;
+function multiply(a, b) {
+	return a * b;
 }
